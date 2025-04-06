@@ -10,7 +10,8 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to satya home appliances</h1>
+      <h1>Welcome to Satya Home Appliances</h1>
+      <h2>Helps you in building your dream house</h2>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
