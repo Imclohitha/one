@@ -11,7 +11,7 @@
   <header class="hero">
     <div class="hero-content">
       <h1>Welcome to masterbeauty</h1>
-      <p>Transforming spaces into your dream home</p>
+      <h2>Transforming spaces into your dream home</h2>
       <a href="#contact" class="btn">Get Started</a>
     </div>
   </header>
