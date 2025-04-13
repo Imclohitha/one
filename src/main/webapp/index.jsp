@@ -10,7 +10,7 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to masterbeauty</h1>
+      <h1>Welcome to missbeauty</h1>
       <h2>Transforming spaces into your dream home</h2>
       <a href="#contact" class="btn">Get Started</a>
     </div>
